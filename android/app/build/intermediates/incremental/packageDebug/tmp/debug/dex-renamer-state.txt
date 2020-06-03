@@ -1,0 +1,4 @@
+#Wed Jun 03 15:59:09 BRT 2020
+base.0=C\:\\Users\\Murilo\\Downloads\\unifacef\\star-wars-app\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
